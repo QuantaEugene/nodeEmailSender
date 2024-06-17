@@ -1,0 +1,16 @@
+{
+  "name": "gmail-send",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.0"
+  }
+}
